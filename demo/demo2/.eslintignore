@@ -1,0 +1,5 @@
+build/*.js
+config/*.js
+vue-fullpage.js
+npm
+mobile-console.min.js
